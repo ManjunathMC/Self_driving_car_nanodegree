@@ -1,2 +1,2 @@
-# Self_driving_car_nanodegree
+# SDCN_Project_1
 Nanodegree
